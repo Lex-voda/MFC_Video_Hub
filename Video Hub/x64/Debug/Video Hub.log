@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  CRegisterDlg.cpp
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CRegisterDlg.cpp(320,49): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CRegisterDlg.cpp(336,61): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CRegisterDlg.cpp(361,65): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CRegisterDlg.cpp(369,66): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  CLoginDlg.cpp
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CLoginDlg.cpp(295,49): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CLoginDlg.cpp(313,61): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  CLaunchDlg.cpp
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CLaunchDlg.cpp(319,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  CSearchDlg.cpp
+  CUserDlg.cpp
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CUserDlg.cpp(345,42): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\CUserDlg.cpp(364,55): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  CVideoDlg.cpp
+  stdlate.cpp
+  Video_Hub_App.cpp
+  Video_Hub_Dlg.cpp
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\Video_Hub_Dlg.cpp(452,49): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\Video_Hub_Dlg.cpp(483,51): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  正在生成代码...
+D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\Video Hub\Late_List.h(276): warning C4715: “List<User>::back”: 不是所有的控件路径都返回值
+  Video Hub.vcxproj -> D:\大学\C++\面向对象2022秋\小组01\Video Hub_v0.9.0\x64\Debug\Vide Hub.exe
